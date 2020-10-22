@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nhóm 7</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">GinKamatsu</string>
+    <string name="nav_header_subtitle">caigichaduoc0@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Chỗ này chưa biết để gì</string>
+
+    <string name="menu_home">Trang Chủ</string>
+    <string name="menu_gallery">Đang Đọc</string>
+    <string name="menu_newchap">Chap Mới</string>
+    <string name="menu_lib">Thư Viện</string>
+    <string name="menu_setting">Cài đặt</string>
+    <string name="menu_info">Info</string>
+
+</resources>
